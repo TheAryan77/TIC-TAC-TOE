@@ -34,7 +34,7 @@ const winpatterns = [
 ];
 
 const showdraw = () =>{
-    msg.innerText = `OopS!Game is Draw!`
+    msg.innerText = `Oops!Game is Draw,Play Again!`
     msgContainer.classList.remove("hide")
     disabledboxes()
 }
