@@ -19,7 +19,7 @@ body{
     background-color: #191913;
     color: #ffff;
     border-radius: 1rem;
-
+    cursor: pointer;
 }
 
 .game{
@@ -46,6 +46,7 @@ h1{
     border-radius: 10%;
     color: black;
     border: none;
+    cursor: grab;
 }
 
 
@@ -55,6 +56,7 @@ h1{
     background-color: #191913;
     color: #ffff;
     border-radius: 1rem;
+    cursor: pointer;
 
 }
 
